@@ -43,6 +43,11 @@ The system validates robot control code before simulation and reports PASS/FAIL 
 - Strict joint limits correctly trigger failure
 - Realistic joint limits result in successful validation
 
+## Demo Video
+A short demo video showing the complete workflow:
+https://github.com/shaambhaviii/robotics-code-checker/releases
+
+
 ---
 
 ## Logs and Testing Notes
